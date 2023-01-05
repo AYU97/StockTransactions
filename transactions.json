@@ -6,7 +6,18 @@
     "sku": "DOK019240/66/49",
     "type": "order",
     "qty": 4
-}, {
+}, 
+{
+    "sku": "ORDER",
+    "type": "order",
+    "qty": 10
+},
+{
+    "sku": "REFUND",
+    "type": "refund",
+    "qty": 10
+},
+{
     "sku": "XOE089797/10/74",
     "type": "refund",
     "qty": 5
